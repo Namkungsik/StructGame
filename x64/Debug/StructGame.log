@@ -1,0 +1,11 @@
+﻿  AttackedCharacter.c
+C:\Users\user\Desktop\StructGame\AttackedCharacter.c(7,24): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  InitCharacter.c
+C:\Users\user\Desktop\StructGame\InitCharacter.c(6,21): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+C:\Users\user\Desktop\StructGame\base.h(1,1): warning C4828: 파일에 0x11f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  MainScene.c
+C:\Users\user\Desktop\StructGame\base.h(1,1): warning C4828: 파일에 0x11f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  SaveNLoad.c
+  코드를 생성하고 있습니다...
+  StructGame.vcxproj -> C:\Users\user\Desktop\StructGame\x64\Debug\StructGame.exe
